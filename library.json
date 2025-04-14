@@ -1,0 +1,16 @@
+[
+    {
+        "title": "good",
+        "author": "kim",
+        "year": 2009,
+        "genre": "hooror",
+        "read": true
+    },
+    {
+        "title": "huda kutti",
+        "author": "hiba",
+        "year": 2025,
+        "genre": "realism",
+        "read": false
+    }
+]
